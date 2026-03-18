@@ -22,4 +22,4 @@ CryptoFlasherV2 is a blockchain transaction simulation and visualization platfor
 
 - For licensing details, contact @CryptoFlashG on Telegram.
 
-## Telegram username:[CryptoFlashG](https://t.me/CryptoFlashG)
+## Telegram username: [CryptoFlashG](https://t.me/CryptoFlashG)
